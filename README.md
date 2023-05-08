@@ -16,5 +16,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javieryami&show_icons=true&locale=en&layout=compact" alt="javieryami" /></p>
 
 <h1 align="center">Proyects</h1>
+<h3 aling="center">Proyecto individual - Henry Countries <h3/>
+<p> Fullstack SPA desarrollada con JavaScript, HTML, CSS, React, Redux, Node, Express, Sequelize y PosrgresSQL<p/>
+<a href="https://pi-countries-main-eosin.vercel.app">Deploy<a/>
+<a href="https://github.com/JavierYami/PI-Countries-main">Github<a/>
+
 
 
