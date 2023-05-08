@@ -19,6 +19,7 @@
 <h3 aling="center">Proyecto individual - Henry Countries <h3/>
 <p> Fullstack SPA desarrollada con JavaScript, HTML, CSS, React, Redux, Node, Express, Sequelize y PosrgresSQL<p/>
 <a href="https://pi-countries-main-eosin.vercel.app">Deploy<a/>
+<br/>
 <a href="https://github.com/JavierYami/PI-Countries-main">Github<a/>
 
 
