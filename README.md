@@ -1,8 +1,6 @@
 <h1 align="center">"Hello! I'm Javier :)</h1>
 <h3 align="center">Resido en Ciudad de México, tengo 22 años, Soy desarrollador fullstack y estudiante de informática, manejo javascript, html y css, utilizando tecnologías como React, Redux, Node y Express. Soy una persona empática, amable y comunicativa, por lo que disfruto y se me facilita trabajar en equipo. Me encanta aprender cosas nuevas y solucionar problemas.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Books4All](https://books4-all-front.vercel.app)
-
 - 🌱 Estoy aprendiendo **TypeScript, Tailwind CSS**
 
 - 📫 How to reach me **javieryami1@outlook.com**
